@@ -2,3 +2,4 @@ This is another file.
 
 Which has been edited in the feature-1 branch.
 
+Edit.
