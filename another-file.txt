@@ -3,3 +3,5 @@ This line was replace in feature-2 branch
 Which has been edited in the feature-1 branch.
 
 This line was added in feature-2 branch.
+
+Another modification in the feature-2 branch
